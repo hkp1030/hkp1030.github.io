@@ -6,51 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 홍승식
+title: 풀스택 개발자
+email: fya1030@naver.com
+website: github.com/hkp1030
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+github_username:  hkp1030
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  객체지향 설계와 알고리즘 기반 문제 해결 능력을 바탕으로 다양한 프로젝트를 성공적으로 이끌어왔습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  특히 데이터베이스 설계에 뛰어난 역량을 보유하고 있으며, MySQL, MariaDB, PostgreSQL 등 다양한 데이터베이스를 활용하여 효율적인 데이터 관리 시스템을 구축할 수 있습니다.
+  
+  데이터베이스 모델링을 통해 데이터의 구조와 관계를 파악하여 최적의 데이터베이스 설계를 수행합니다. 또한, 인덱스 생성, 쿼리 튜닝 등의 작업을 통해 데이터베이스 성능을 최적화하여 시스템의 성능을 향상시킬 수 있습니다.
+  
+  지속적인 학습과 개발을 통해 새로운 기술 역량을 확장해 나가는 것을 목표로 하고 있습니다.
 
 content:
   - title: Projects # Title for the section
